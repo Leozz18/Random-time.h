@@ -29,7 +29,7 @@ Ho usato anche Google Sheets per sostituire excell e per importare il file .csv.
 se volete provare voi stessi potete clonare il repository.
  
 ```sh
-git clone https://github.com/Leozz18/Random-time.h
+git clone https://github.com/Leozz18/Random-time.h.git
 ```
 ### Prerequisites
 
@@ -38,7 +38,7 @@ Vi  basterà avere Gcc installato non serve per forza dev-c++ basta compilare il
 ### Installation
 
 1.clonare il repo così ```sh
-git clone https://github.com/Leozz18/Random-time.h
+git clone https://github.com/Leozz18/Random-time.h.git
 ``
 2. andare sul terminale e compilare il file.c 
 ```sh
