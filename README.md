@@ -46,7 +46,7 @@ git clone https://github.com/Leozz18/Random-time.h.git
 ```
 3. avviare il file sempre tramite il terminale
 ```sh
-    ./random
+    ./random <oppure> start random.exe
 ```
 4. ora vedrete che verra creato un file chiamato "random_numbers.csv" 
   
